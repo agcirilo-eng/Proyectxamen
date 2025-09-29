@@ -1,0 +1,47 @@
+.div1 {
+    grid-column: span 2; 
+    background: yellow;
+}
+
+.div2 {
+    background: green;
+}
+
+.div3 {
+    grid-row: span 2; 
+    background: gray;
+}
+
+.div4 {
+    background: beige;
+}
+
+.div5 {
+    background: violet;
+}
+
+.div6 {
+    background: pink;
+}
+
+.div7 {
+    grid-column: span 2; 
+    grid-row: span 2;    
+    background: blue;
+}
+
+.div8 {
+    background: brown;
+}
+
+.div9 {
+    background: skyblue;
+}
+
+.div10 {
+    background: gold;
+}
+
+.div11 {
+    background: magenta;
+}
